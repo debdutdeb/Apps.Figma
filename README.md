@@ -17,3 +17,6 @@ Here are some links to examples and documentation:
   - [App Guides](https://forums.rocket.chat/c/rocket-chat-apps/guides)
   - [Top View of Both Categories](https://forums.rocket.chat/c/rocket-chat-apps)
 - [#rocketchat-apps on Open.Rocket.Chat](https://open.rocket.chat/channel/rocketchat-apps)
+
+
+Mentored by [@douglas.gubert](https://open.rocket.chat/direct/douglas.gubert).
